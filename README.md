@@ -1,2 +1,2 @@
 # NerRalOS
-just a os.
+just a os. But NO OS!!
